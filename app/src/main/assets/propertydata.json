@@ -1,0 +1,52 @@
+[ {
+  "address" : {
+    "district" : "D13",
+    "street_name" : "12 Meyappa Chettiar Rd"
+  },
+  "attributes" : {
+    "area_size" : 2561,
+    "bathrooms" : 2,
+    "bedrooms" : 3,
+    "price" : 2561
+  },
+  "category" : "Condo",
+  "completed_at" : "2020",
+  "id" : 0,
+  "photo" : "https://picsum.photos/id/10/450/300",
+  "project_name" : "Parkview Apartments",
+  "tenure" : 99
+}, {
+  "address" : {
+    "district" : "D19",
+    "street_name" : "35 Hougang Ave 7"
+  },
+  "attributes" : {
+    "area_size" : 1012,
+    "bathrooms" : 3,
+    "bedrooms" : 3,
+    "price" : 4000
+  },
+  "category" : "Condo",
+  "completed_at" : "1999",
+  "id" : 1,
+  "photo" : "https://picsum.photos/id/11/450/300",
+  "project_name" : "Evergreen Park",
+  "tenure" : 99
+}, {
+  "address" : {
+    "district" : "D2",
+    "street_name" : "3 Wallich St"
+  },
+  "attributes" : {
+    "area_size" : 915,
+    "bathrooms" : 2,
+    "bedrooms" : 2,
+    "price" : 3300
+  },
+  "category" : "Apartment",
+  "completed_at" : "2022",
+  "id" : 2,
+  "photo" : "https://picsum.photos/id/12/450/300",
+  "project_name" : "Wallich",
+  "tenure" : 99
+} ]
